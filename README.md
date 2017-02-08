@@ -1,4 +1,6 @@
-TypeScript source files in a gem.
+[![Gem Version](https://badge.fury.io/rb/tsrc.svg)](https://badge.fury.io/rb/tsrc)
+
+TypeScript source files in a Ruby gem.
 
 ## Installation
 
